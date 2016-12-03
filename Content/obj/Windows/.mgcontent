@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/background.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/ball.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/boss.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/cloud.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/enemy.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/explosion_basic.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/explosion_pro.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/flyenemy.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/logo.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/spaceship.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/title.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/fonts/debug.spritefont</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/fonts/font.spritefont</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/fonts/fontSketchA.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/fonts/fontSketchB.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/logo.wav</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/ping.wav</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/spacediver.ogg</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/spaceship.ogg</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/start.wav</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/shot.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/spaceLogo.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/gameover.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/graphics/8=D.png</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/title.ogg</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/laser.wav</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/muere.wav</File>
+    <File>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/audio/enemy.wav</File>
+  </SourceFiles>
+</SourceFileCollection>

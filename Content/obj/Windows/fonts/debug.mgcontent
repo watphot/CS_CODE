@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/fonts/debug.spritefont</SourceFile>
+  <SourceTime>2016-04-18T08:56:10+02:00</SourceTime>
+  <DestFile>C:/Users/StEvE/Desktop/SpaceGame_1A_StevenMejía_source/Content/bin/Windows/fonts/debug.xnb</DestFile>
+  <DestTime>2016-12-04T00:02:52.8407132+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
